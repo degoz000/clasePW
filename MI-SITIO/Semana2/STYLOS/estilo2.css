@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    border: 2px solid teal;
+    padding: 30px;
+    margin: 50pxs;
+}
